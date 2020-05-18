@@ -1,6 +1,6 @@
 # Demonstrating the use of 'Convolutional neural network' (CNN) for digit classification
 
-[Click here to view article]()
+[Click here to view article](https://www.linkedin.com/post/edit/6667929625802362880/)
 
 [Click here to view model](https://github.com/AshrafRah96/Digit-Classifier/tree/master/Model)
 
