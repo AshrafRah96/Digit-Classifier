@@ -116,6 +116,7 @@ Convolutional neural networks are more complex than standard multi-layer percept
 
 6, Finally, the output layer has 10 neurons for the 10 classes and a softmax activation function to output probability-like predictions for each class.
 
+Note: Softmax calculates a probability for every possible class.
 
 ```python
 num_classes = 10
